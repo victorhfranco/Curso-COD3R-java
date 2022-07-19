@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Bootcamp-dio&apos;&#x0D;&#x0A;- Original project: &apos;Bootcamp-dio&apos;&#x0D;&#x0A;- Original element: &apos;exercitando.exercicioTemperatura.java&apos;" description="Delete element" element1="/src&lt;exercitando{exercicioTemperatura.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1653072846190" subPackages="false" version="1.0"/>
+</session>

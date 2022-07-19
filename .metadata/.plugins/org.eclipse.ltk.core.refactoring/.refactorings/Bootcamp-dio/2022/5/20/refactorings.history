@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exercitando.ExercicioTabuada&apos; to &apos;exercicioTabuada&apos;&#x0D;&#x0A;- Original project: &apos;Bootcamp-dio&apos;&#x0D;&#x0A;- Original element: &apos;exercitando.ExercicioTabuada&apos;&#x0D;&#x0A;- Renamed element: &apos;exercitando.exercicioTabuada&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExercicioTabuada&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exercitando{ExercicioTabuada.java[ExercicioTabuada" matchStrategy="1" name="exercicioTabuada" qualified="false" references="true" similarDeclarations="false" stamp="1652319878232" textual="false" version="1.0"/>
+</session>
