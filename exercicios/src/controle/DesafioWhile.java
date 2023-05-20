@@ -22,7 +22,7 @@ public class DesafioWhile {
 		double total = 0;
 		
 		while(nota != -1) {
-			System.out.println("Informe a nota (ou -1 para sair: ");
+			System.out.println("Informe a nota ou -1 para sair: ");
 			nota = entrada.nextDouble();
 			
 			

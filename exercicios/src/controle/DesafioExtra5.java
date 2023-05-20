@@ -3,9 +3,6 @@ package controle;
 import java.util.Scanner;
 
 public class DesafioExtra5 {
-	/**
-	 * Utilize switch
-	 */
 	public static void main(String[] args) {
 
 		int contadorDeDivisores = 0;
@@ -21,16 +18,17 @@ public class DesafioExtra5 {
 		}
 
 		switch (contadorDeDivisores) {
+
 		case 0:
-			System.out.println("O numero " + numero + " é um número primo");
+			System.out.println("O numero " + numero + " é um numero primo.");
 			break;
-			
+
 		default:
-			System.out.println("O numero " + numero + " não é um número primo");
+			System.out.println("O numero " + numero + "  não é um numero primo.");
+
 		}
 
 		scanner.close();
 
 	}
-
 }
