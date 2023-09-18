@@ -7,7 +7,11 @@
 	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
 	<item key="TypeHierarchyViewPart.orientation" value="3"/>
 	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\workspace\calculadora"/>
-	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
+	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="true"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Admin\Desktop\javafx-sdk-20.0.2\lib"/>
+	<list key="workingset_selection_history">
+		<item value="app"/>
+	</list>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="1"/>
@@ -26,7 +30,7 @@
 	</section>
 	<section name="completion_proposal_size">
 		<item key="size.x" value="381"/>
-		<item key="size.y" value="238"/>
+		<item key="size.y" value="240"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
@@ -120,6 +124,13 @@
 		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item key="index" value="4"/>
+		<item key="index" value="8"/>
+	</section>
+	<section name="DialogBounds_AddDelegateMethodsDialog">
+		<item key="DIALOG_X_ORIGIN" value="387"/>
+		<item key="DIALOG_Y_ORIGIN" value="23"/>
+		<item key="DIALOG_WIDTH" value="546"/>
+		<item key="DIALOG_HEIGHT" value="554"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>
